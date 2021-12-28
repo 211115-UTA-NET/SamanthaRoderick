@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e3284e7f-a771-425a-ab22-ace4ececa6bd": {
+      "ProjectGuid": "e3284e7f-a771-425a-ab22-ace4ececa6bd",
+      "DisplayName": "ASP.NET Core Sample",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

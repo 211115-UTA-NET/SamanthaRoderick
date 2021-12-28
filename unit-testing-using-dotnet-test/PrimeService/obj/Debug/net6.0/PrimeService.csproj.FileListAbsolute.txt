@@ -1,0 +1,12 @@
+C:\Users\roder\Revature\SamanthaRoderick\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net6.0\PrimeService.deps.json
+C:\Users\roder\Revature\SamanthaRoderick\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net6.0\PrimeService.dll
+C:\Users\roder\Revature\SamanthaRoderick\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net6.0\ref\PrimeService.dll
+C:\Users\roder\Revature\SamanthaRoderick\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net6.0\PrimeService.pdb
+C:\Users\roder\Revature\SamanthaRoderick\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net6.0\PrimeService.csproj.AssemblyReference.cache
+C:\Users\roder\Revature\SamanthaRoderick\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net6.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roder\Revature\SamanthaRoderick\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net6.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\roder\Revature\SamanthaRoderick\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net6.0\PrimeService.AssemblyInfo.cs
+C:\Users\roder\Revature\SamanthaRoderick\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net6.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\roder\Revature\SamanthaRoderick\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net6.0\PrimeService.dll
+C:\Users\roder\Revature\SamanthaRoderick\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net6.0\ref\PrimeService.dll
+C:\Users\roder\Revature\SamanthaRoderick\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net6.0\PrimeService.pdb

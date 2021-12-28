@@ -1,0 +1,26 @@
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\bin\Debug\net6.0\appsettings.json
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\bin\Debug\net6.0\ASP.NET Core Sample.staticwebassets.runtime.json
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\bin\Debug\net6.0\ASP.NET Core Sample.exe
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\bin\Debug\net6.0\ASP.NET Core Sample.deps.json
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\bin\Debug\net6.0\ASP.NET Core Sample.runtimeconfig.json
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\bin\Debug\net6.0\ASP.NET Core Sample.dll
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\bin\Debug\net6.0\ref\ASP.NET Core Sample.dll
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\bin\Debug\net6.0\ASP.NET Core Sample.pdb
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\obj\Debug\net6.0\ASP.NET Core Sample.csproj.AssemblyReference.cache
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\obj\Debug\net6.0\ASP.NET Core Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\obj\Debug\net6.0\ASP.NET Core Sample.AssemblyInfoInputs.cache
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\obj\Debug\net6.0\ASP.NET Core Sample.AssemblyInfo.cs
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\obj\Debug\net6.0\ASP.NET Core Sample.csproj.CoreCompileInputs.cache
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\obj\Debug\net6.0\ASP.NET Core Sample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\obj\Debug\net6.0\ASP.NET Core Sample.RazorAssemblyInfo.cache
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\obj\Debug\net6.0\ASP.NET Core Sample.RazorAssemblyInfo.cs
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\obj\Debug\net6.0\scopedcss\bundle\ASP.NET Core Sample.styles.css
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\obj\Debug\net6.0\scopedcss\projectbundle\ASP.NET Core Sample.bundle.scp.css
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\obj\Debug\net6.0\ASP.NET Core Sample.dll
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\obj\Debug\net6.0\ref\ASP.NET Core Sample.dll
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\obj\Debug\net6.0\ASP.NET Core Sample.pdb
+C:\Users\roder\Revature\SamanthaRoderick\ASP.NET Core Sample\obj\Debug\net6.0\ASP.NET Core Sample.genruntimeconfig.cache
