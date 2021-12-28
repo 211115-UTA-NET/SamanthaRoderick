@@ -10,25 +10,24 @@ builder.Services.Configure<KestrelServerOptions>(options => options.AllowSynchro
 var app = builder.Build();
 
 
-try
+
+app.Run(context =>
 {
-    app.Run(context =>
+    string path = context.Request.Path;
+    string substringOfPath = path.Substring(1, path.Length - 1);
+    try
     {
-        string path = context.Request.Path;
-        string substringOfPath = path.Substring(1, path.Length - 1);
         using var stream = new FileStream(substringOfPath, FileMode.Open, FileAccess.Read);
         context.Response.StatusCode = 200;
         context.Response.ContentType = "image/jpeg";
         stream.CopyTo(context.Response.Body);
-
-        return Task.CompletedTask;
-    });
-        
-}
-catch (DirectoryNotFoundException e)
-{
-    Console.WriteLine(e.Message);
-}
-
+    }
+    catch (IOException e)
+    {
+        context.Response.StatusCode = 404;
+        Console.WriteLine(e.Message);
+    }
+    return Task.CompletedTask;
+});
 
 app.Run();
