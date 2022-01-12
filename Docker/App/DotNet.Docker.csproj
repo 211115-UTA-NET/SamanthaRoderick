@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
+
+<!-- docker build -t counter-image -f Dockerfile .
+Docker will process each line in the Dockerfile. The . in the docker build command tells Docker to use the current folder to find a Dockerfile. This command builds the image and creates a local repository named counter-image that points to that image. After this command finishes, run docker images to see a list of images installed -->

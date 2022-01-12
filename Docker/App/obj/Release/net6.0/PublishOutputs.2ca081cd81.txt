@@ -1,0 +1,5 @@
+C:\Users\roder\Revature\SamanthaRoderick\Docker\App\bin\Release\net6.0\publish\DotNet.Docker.exe
+C:\Users\roder\Revature\SamanthaRoderick\Docker\App\bin\Release\net6.0\publish\DotNet.Docker.dll
+C:\Users\roder\Revature\SamanthaRoderick\Docker\App\bin\Release\net6.0\publish\DotNet.Docker.deps.json
+C:\Users\roder\Revature\SamanthaRoderick\Docker\App\bin\Release\net6.0\publish\DotNet.Docker.runtimeconfig.json
+C:\Users\roder\Revature\SamanthaRoderick\Docker\App\bin\Release\net6.0\publish\DotNet.Docker.pdb

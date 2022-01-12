@@ -1,0 +1,15 @@
+C:\Users\roder\Revature\SamanthaRoderick\Docker\App\bin\Release\net6.0\DotNet.Docker.exe
+C:\Users\roder\Revature\SamanthaRoderick\Docker\App\bin\Release\net6.0\DotNet.Docker.deps.json
+C:\Users\roder\Revature\SamanthaRoderick\Docker\App\bin\Release\net6.0\DotNet.Docker.runtimeconfig.json
+C:\Users\roder\Revature\SamanthaRoderick\Docker\App\bin\Release\net6.0\DotNet.Docker.dll
+C:\Users\roder\Revature\SamanthaRoderick\Docker\App\bin\Release\net6.0\ref\DotNet.Docker.dll
+C:\Users\roder\Revature\SamanthaRoderick\Docker\App\bin\Release\net6.0\DotNet.Docker.pdb
+C:\Users\roder\Revature\SamanthaRoderick\Docker\App\obj\Release\net6.0\DotNet.Docker.csproj.AssemblyReference.cache
+C:\Users\roder\Revature\SamanthaRoderick\Docker\App\obj\Release\net6.0\DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roder\Revature\SamanthaRoderick\Docker\App\obj\Release\net6.0\DotNet.Docker.AssemblyInfoInputs.cache
+C:\Users\roder\Revature\SamanthaRoderick\Docker\App\obj\Release\net6.0\DotNet.Docker.AssemblyInfo.cs
+C:\Users\roder\Revature\SamanthaRoderick\Docker\App\obj\Release\net6.0\DotNet.Docker.csproj.CoreCompileInputs.cache
+C:\Users\roder\Revature\SamanthaRoderick\Docker\App\obj\Release\net6.0\DotNet.Docker.dll
+C:\Users\roder\Revature\SamanthaRoderick\Docker\App\obj\Release\net6.0\ref\DotNet.Docker.dll
+C:\Users\roder\Revature\SamanthaRoderick\Docker\App\obj\Release\net6.0\DotNet.Docker.pdb
+C:\Users\roder\Revature\SamanthaRoderick\Docker\App\obj\Release\net6.0\DotNet.Docker.genruntimeconfig.cache

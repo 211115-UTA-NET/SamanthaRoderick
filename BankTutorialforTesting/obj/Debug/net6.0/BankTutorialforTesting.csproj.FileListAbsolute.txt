@@ -1,0 +1,15 @@
+C:\Users\roder\Revature\SamanthaRoderick\BankTutorialforTesting\bin\Debug\net6.0\BankTutorialforTesting.exe
+C:\Users\roder\Revature\SamanthaRoderick\BankTutorialforTesting\bin\Debug\net6.0\BankTutorialforTesting.deps.json
+C:\Users\roder\Revature\SamanthaRoderick\BankTutorialforTesting\bin\Debug\net6.0\BankTutorialforTesting.runtimeconfig.json
+C:\Users\roder\Revature\SamanthaRoderick\BankTutorialforTesting\bin\Debug\net6.0\BankTutorialforTesting.dll
+C:\Users\roder\Revature\SamanthaRoderick\BankTutorialforTesting\bin\Debug\net6.0\ref\BankTutorialforTesting.dll
+C:\Users\roder\Revature\SamanthaRoderick\BankTutorialforTesting\bin\Debug\net6.0\BankTutorialforTesting.pdb
+C:\Users\roder\Revature\SamanthaRoderick\BankTutorialforTesting\obj\Debug\net6.0\BankTutorialforTesting.csproj.AssemblyReference.cache
+C:\Users\roder\Revature\SamanthaRoderick\BankTutorialforTesting\obj\Debug\net6.0\BankTutorialforTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roder\Revature\SamanthaRoderick\BankTutorialforTesting\obj\Debug\net6.0\BankTutorialforTesting.AssemblyInfoInputs.cache
+C:\Users\roder\Revature\SamanthaRoderick\BankTutorialforTesting\obj\Debug\net6.0\BankTutorialforTesting.AssemblyInfo.cs
+C:\Users\roder\Revature\SamanthaRoderick\BankTutorialforTesting\obj\Debug\net6.0\BankTutorialforTesting.csproj.CoreCompileInputs.cache
+C:\Users\roder\Revature\SamanthaRoderick\BankTutorialforTesting\obj\Debug\net6.0\BankTutorialforTesting.dll
+C:\Users\roder\Revature\SamanthaRoderick\BankTutorialforTesting\obj\Debug\net6.0\ref\BankTutorialforTesting.dll
+C:\Users\roder\Revature\SamanthaRoderick\BankTutorialforTesting\obj\Debug\net6.0\BankTutorialforTesting.pdb
+C:\Users\roder\Revature\SamanthaRoderick\BankTutorialforTesting\obj\Debug\net6.0\BankTutorialforTesting.genruntimeconfig.cache
